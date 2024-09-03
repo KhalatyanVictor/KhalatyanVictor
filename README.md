@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a Collaborative Coding Community<br><br>👯 I’m looking to collaborate on any projects<br><br>🤝 I’m looking for help with finding a job<br><br>🌱 I’m currently learning JavaScript and React<br><br>⚡ Fun fact: I'm only 15 years old
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/_khalatyan____.__/](https://www.instagram.com/_khalatyan____.__/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/victor-khalatyan-a693802b7/](https://linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)]([https://reddit.com/user/https://www.reddit.com/user/_khalatyan/](https://www.reddit.com/user/_khalatyan/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KhalatyanVictor) 
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 # 📊 GitHub Stats:
